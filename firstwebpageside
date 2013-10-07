@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Word of Mouth</title>
+    <link rel="stylesheet" href="stylesheet2.css">
+  </head>
+  <div class="sidebar">
+  <body>
+<div class="logo">
+<img src="WOMlogo.png" alt="logo" width="400"/>
+</div>
+<ul id="navigation">
+  <li>Sign In</li>
+  <li>Join</li>
+  <li>Contact</li>
+</ul>
+<div class="para1">
+<p> Word of Mouth is a social network that connects friends and their memories around the city. </p>
+</div>
+</div>
+<p><img src="chimap.jpg" alt="map" class="align-center medium"/>
+  </p>
